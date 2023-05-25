@@ -7,7 +7,7 @@ Each button have a specific behavior:
 - The text repeater button will copy the text of the button over and over.
 
 ### Short demo video
-![Demovideo](/docs/demo5.gif)
+![Demovideo](/public/docs/demo5.gif)
 
 ### `npm start`
 Runs the app in the development mode.
